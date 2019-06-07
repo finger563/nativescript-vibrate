@@ -21,7 +21,7 @@
     "karma-nativescript-launcher": "^0.4.0",
     "nativescript-css-loader": "~0.26.1",
     "nativescript-dev-typescript": "~0.10.0",
-    "nativescript-dev-webpack": "~0.24.0",
+    "nativescript-dev-webpack": "~0.24.1",
     "tns-platform-declarations": "^5.4.0",
     "tslint": "~5.17.0"
   },
